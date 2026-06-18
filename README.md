@@ -1,5 +1,5 @@
 # [Demo](https://tkkaushik369.github.io/RiotCity)
-Also Check [RiotCity-Alpha](https://github.com/tkkaushik369/RiotCity), Initial Development prototype of this project.
+Also Check [RiotCity-Alpha](https://github.com/tkkaushik369/RiotCity-Alpha), Initial Development prototype of this project.
 
 ![images/demo_1.png](images/demo_1.png)
 ![images/demo_2.png](images/demo_2.png)
